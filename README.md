@@ -1,6 +1,6 @@
 #@status_withheld
 
-***NOTE**: This Twitter bot is not active due to the `status_withheld` event [not being updated to support tweets with longer IDs](https://twittercommunity.com/t/status-withheld/76757). This repo serves as an archive until the event is properly supported.*
+**_NOTE:_** _This Twitter bot is not active due to the `status_withheld` event [not being updated to support tweets with longer IDs](https://twittercommunity.com/t/status-withheld/76757). This repo serves as an archive until the event is properly supported._
 
 A [Twitter bot](https://twitter.com/status_withheld) that monitors `statuses/sample` on Twitter for the `status_withheld` event.
 
