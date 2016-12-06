@@ -8,7 +8,7 @@ stream.on('status_withheld', function (tweet) {
   console.log('status_withheld');
   console.log(tweet);
 
-  twitter.post('statuses/retweet/:id',
+  T.post('statuses/retweet/:id',
   {
     id: tweet.status_withheld.id
   }, function(err, data, response) {
